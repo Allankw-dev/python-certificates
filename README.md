@@ -108,4 +108,4 @@ Create a GitHub Profile README (very powerful one)
 
 Help you structure your portfolio like a job-ready developer**
 
-Rewrite this to sound even more senior-level**
+
