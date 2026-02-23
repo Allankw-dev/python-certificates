@@ -98,7 +98,7 @@ Certificates are available upon request or attached within this repository.
 Allan Kamau
 📧 allankamauw20@gmail.com
 
-🔗 GitHub: https://github.com/Allankw-dev
+🔗 GitHub: https://github.com/Allankw-dev.
 
 
 
