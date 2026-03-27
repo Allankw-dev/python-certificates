@@ -21,7 +21,7 @@ Virtual environments
 
 ⚙ Python for Backend Development
 
-REST API fundamentals
+REST API fundamentals.
 
 Flask / FastAPI concepts
 
