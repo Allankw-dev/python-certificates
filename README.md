@@ -1,4 +1,4 @@
-#Python Certificates.
+#Python Certificates
 
 This repository showcases my advanced certifications and continued learning journey in Python programming...
 
