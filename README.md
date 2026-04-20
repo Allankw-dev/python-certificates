@@ -1,6 +1,6 @@
 #Python Certificates.
 
-This repository showcases my advanced certifications and continued learning journey in Python programming..
+This repository showcases my advanced certifications and continued learning journey in Python programming.
 
 I have completed multiple advanced-level courses focused on writing scalable, efficient, and production-ready Python applications..
 
