@@ -89,7 +89,7 @@ Performance optimization
 
 DevOps fundamentals
 
-📜 Proof of Certification.
+📜 Proof of Certification..
 
 Certificates are available upon request or attached within this repository.
 
