@@ -1,4 +1,4 @@
-#Python Certificates.
+#Python Certificates.k
 🎓 Certifications Earned
 🏆 Advanced Python Programming
     python 3 programming
